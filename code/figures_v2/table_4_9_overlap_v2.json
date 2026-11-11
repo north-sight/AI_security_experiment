@@ -1,0 +1,32 @@
+{
+  "I-FGSM": {
+    "all_three_succeed": 37,
+    "any_two_succeed": 145,
+    "only_one_succeed": 1586,
+    "all_three_fail": 177
+  },
+  "MI-FGSM": {
+    "all_three_succeed": 54,
+    "any_two_succeed": 277,
+    "only_one_succeed": 1430,
+    "all_three_fail": 184
+  },
+  "MDI-FGSM": {
+    "all_three_succeed": 88,
+    "any_two_succeed": 426,
+    "only_one_succeed": 1259,
+    "all_three_fail": 172
+  },
+  "TI-MDI-FGSM": {
+    "all_three_succeed": 117,
+    "any_two_succeed": 638,
+    "only_one_succeed": 1037,
+    "all_three_fail": 153
+  },
+  "E-TIMDI-FGSM": {
+    "all_three_succeed": 200,
+    "any_two_succeed": 582,
+    "only_one_succeed": 1030,
+    "all_three_fail": 133
+  }
+}

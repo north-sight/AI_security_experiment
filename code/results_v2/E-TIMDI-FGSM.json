@@ -1,0 +1,18 @@
+{
+  "config_name": "E-TIMDI-FGSM",
+  "method": "TI-MDI-FGSM",
+  "eps": 0.2,
+  "steps": 10,
+  "seed": 42,
+  "ms_per_img": 3.8835079669952393,
+  "max_l_inf": 0.20000001788139343,
+  "mean_l2": 3.7353920936584473,
+  "asrs": {
+    "NetA": 19.948586118251928,
+    "NetB": 72.59640102827764,
+    "TargetCNN": 14.344473007712082,
+    "TargetMLP": 39.33161953727507,
+    "TargetResNet": 89.97429305912597,
+    "TargetMean": 47.883461868037706
+  }
+}

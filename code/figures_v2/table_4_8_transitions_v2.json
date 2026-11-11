@@ -1,0 +1,53 @@
+{
+  "MI-FGSM / I-FGSM": {
+    "TargetCNN": {
+      "newly_gained": 47,
+      "lost": 8,
+      "net_gain": 39
+    },
+    "TargetMLP": {
+      "newly_gained": 141,
+      "lost": 21,
+      "net_gain": 120
+    },
+    "TargetResNet": {
+      "newly_gained": 0,
+      "lost": 0,
+      "net_gain": 0
+    }
+  },
+  "TI-MDI-FGSM / I-FGSM": {
+    "TargetCNN": {
+      "newly_gained": 98,
+      "lost": 18,
+      "net_gain": 80
+    },
+    "TargetMLP": {
+      "newly_gained": 603,
+      "lost": 6,
+      "net_gain": 597
+    },
+    "TargetResNet": {
+      "newly_gained": 0,
+      "lost": 0,
+      "net_gain": 0
+    }
+  },
+  "TI-MDI-FGSM / MDI-FGSM": {
+    "TargetCNN": {
+      "newly_gained": 27,
+      "lost": 79,
+      "net_gain": -52
+    },
+    "TargetMLP": {
+      "newly_gained": 351,
+      "lost": 10,
+      "net_gain": 341
+    },
+    "TargetResNet": {
+      "newly_gained": 0,
+      "lost": 0,
+      "net_gain": 0
+    }
+  }
+}

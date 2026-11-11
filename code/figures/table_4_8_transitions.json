@@ -1,0 +1,38 @@
+{
+  "MI-FGSM / I-FGSM": {
+    "TargetCNN": {
+      "newly_gained": 39,
+      "lost": 23,
+      "net_gain": 16
+    },
+    "TargetMLP": {
+      "newly_gained": 170,
+      "lost": 23,
+      "net_gain": 147
+    }
+  },
+  "MDI-FGSM / MI-FGSM": {
+    "TargetCNN": {
+      "newly_gained": 86,
+      "lost": 9,
+      "net_gain": 77
+    },
+    "TargetMLP": {
+      "newly_gained": 95,
+      "lost": 21,
+      "net_gain": 74
+    }
+  },
+  "MDI-FGSM / I-FGSM": {
+    "TargetCNN": {
+      "newly_gained": 108,
+      "lost": 15,
+      "net_gain": 93
+    },
+    "TargetMLP": {
+      "newly_gained": 248,
+      "lost": 27,
+      "net_gain": 221
+    }
+  }
+}

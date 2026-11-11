@@ -1,0 +1,81 @@
+{
+  "NetA": {
+    "test_acc": 99.12
+  },
+  "NetB_Modern": {
+    "model_name": "NetB_Modern",
+    "init_seed": 501,
+    "val_history": [
+      98.12,
+      98.6,
+      98.54,
+      98.78,
+      98.74,
+      98.7,
+      99.1,
+      98.92,
+      98.94,
+      98.96
+    ],
+    "best_val_acc": 99.1,
+    "best_epoch": 7,
+    "test_acc": 99.21
+  },
+  "TargetCNN_Deep": {
+    "model_name": "TargetCNN_Deep",
+    "init_seed": 602,
+    "val_history": [
+      97.82,
+      98.52,
+      98.52,
+      98.68,
+      98.82,
+      98.88,
+      99.06,
+      99.1,
+      98.98,
+      99.14
+    ],
+    "best_val_acc": 99.14,
+    "best_epoch": 10,
+    "test_acc": 99.36
+  },
+  "TargetMLP_Deep": {
+    "model_name": "TargetMLP_Deep",
+    "init_seed": 703,
+    "val_history": [
+      95.26,
+      96.38,
+      96.78,
+      97.32,
+      97.54,
+      97.58,
+      98.0,
+      97.98,
+      97.98,
+      97.98
+    ],
+    "best_val_acc": 98.0,
+    "best_epoch": 7,
+    "test_acc": 98.42
+  },
+  "TargetResNet_Mini": {
+    "model_name": "TargetResNet_Mini",
+    "init_seed": 804,
+    "val_history": [
+      95.12,
+      93.48,
+      95.58,
+      95.76,
+      96.98,
+      97.54,
+      98.82,
+      98.88,
+      98.42,
+      98.8
+    ],
+    "best_val_acc": 98.88,
+    "best_epoch": 8,
+    "test_acc": 98.99
+  }
+}

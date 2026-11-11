@@ -1,0 +1,26 @@
+{
+  "I-FGSM": {
+    "both_succeed": 68,
+    "only_cnn": 111,
+    "only_mlp": 97,
+    "both_fail": 1669
+  },
+  "MI-FGSM": {
+    "both_succeed": 96,
+    "only_cnn": 99,
+    "only_mlp": 216,
+    "both_fail": 1534
+  },
+  "MDI-FGSM": {
+    "both_succeed": 128,
+    "only_cnn": 144,
+    "only_mlp": 258,
+    "both_fail": 1415
+  },
+  "E-MDI-FGSM": {
+    "both_succeed": 412,
+    "only_cnn": 44,
+    "only_mlp": 832,
+    "both_fail": 657
+  }
+}

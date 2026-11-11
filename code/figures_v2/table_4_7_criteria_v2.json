@@ -1,0 +1,56 @@
+[
+  {
+    "Method": "I-FGSM",
+    "CNN_Common": 5.35,
+    "CNN_Own": 5.23,
+    "MLP_Common": 6.79,
+    "MLP_Own": 6.73,
+    "ResNet_Common": 90.03,
+    "ResNet_Own": 88.48
+  },
+  {
+    "Method": "MI-FGSM",
+    "CNN_Common": 7.35,
+    "CNN_Own": 7.19,
+    "MLP_Common": 12.96,
+    "MLP_Own": 12.84,
+    "ResNet_Common": 90.03,
+    "ResNet_Own": 88.48
+  },
+  {
+    "Method": "TI-FGSM",
+    "CNN_Common": 10.59,
+    "CNN_Own": 10.35,
+    "MLP_Common": 33.88,
+    "MLP_Own": 33.59,
+    "ResNet_Common": 90.03,
+    "ResNet_Own": 88.48
+  },
+  {
+    "Method": "MDI-FGSM",
+    "CNN_Common": 12.13,
+    "CNN_Own": 11.86,
+    "MLP_Common": 19.95,
+    "MLP_Own": 19.78,
+    "ResNet_Common": 90.03,
+    "ResNet_Own": 88.48
+  },
+  {
+    "Method": "TI-MDI-FGSM",
+    "CNN_Common": 9.46,
+    "CNN_Own": 9.25,
+    "MLP_Common": 37.48,
+    "MLP_Own": 37.16,
+    "ResNet_Common": 90.03,
+    "ResNet_Own": 88.48
+  },
+  {
+    "Method": "E-TIMDI-FGSM",
+    "CNN_Common": 14.34,
+    "CNN_Own": 14.02,
+    "MLP_Common": 39.33,
+    "MLP_Own": 38.99,
+    "ResNet_Common": 89.97,
+    "ResNet_Own": 88.43
+  }
+]

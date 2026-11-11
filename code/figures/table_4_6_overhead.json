@@ -1,0 +1,44 @@
+[
+  {
+    "Method": "FGSM",
+    "GradCallsPerImg": 1,
+    "MsPerImg": 0.455,
+    "MeanL2": 3.386,
+    "MaxLinf": 0.2
+  },
+  {
+    "Method": "I-FGSM",
+    "GradCallsPerImg": 10,
+    "MsPerImg": 2.158,
+    "MeanL2": 2.933,
+    "MaxLinf": 0.2
+  },
+  {
+    "Method": "PGD",
+    "GradCallsPerImg": 10,
+    "MsPerImg": 2.121,
+    "MeanL2": 3.925,
+    "MaxLinf": 0.2
+  },
+  {
+    "Method": "MI-FGSM",
+    "GradCallsPerImg": 10,
+    "MsPerImg": 2.142,
+    "MeanL2": 3.265,
+    "MaxLinf": 0.2
+  },
+  {
+    "Method": "MDI-FGSM",
+    "GradCallsPerImg": 10,
+    "MsPerImg": 2.215,
+    "MeanL2": 3.31,
+    "MaxLinf": 0.2
+  },
+  {
+    "Method": "E-MDI-FGSM",
+    "GradCallsPerImg": 20,
+    "MsPerImg": 2.665,
+    "MeanL2": 3.808,
+    "MaxLinf": 0.2
+  }
+]

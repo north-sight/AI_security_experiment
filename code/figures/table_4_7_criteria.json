@@ -1,0 +1,30 @@
+[
+  {
+    "Method": "I-FGSM",
+    "CNN_Common": 9.2,
+    "CNN_OwnCorrect": 9.03,
+    "MLP_Common": 8.48,
+    "MLP_OwnCorrect": 8.41
+  },
+  {
+    "Method": "MI-FGSM",
+    "CNN_Common": 10.03,
+    "CNN_OwnCorrect": 9.84,
+    "MLP_Common": 16.04,
+    "MLP_OwnCorrect": 15.9
+  },
+  {
+    "Method": "MDI-FGSM",
+    "CNN_Common": 13.98,
+    "CNN_OwnCorrect": 13.72,
+    "MLP_Common": 19.85,
+    "MLP_OwnCorrect": 19.67
+  },
+  {
+    "Method": "E-MDI-FGSM",
+    "CNN_Common": 23.44,
+    "CNN_OwnCorrect": 23.01,
+    "MLP_Common": 63.96,
+    "MLP_OwnCorrect": 63.4
+  }
+]
